@@ -1,0 +1,8 @@
+# Ignore test-ledger directory
+test-ledger/
+
+# Ignore temporary files
+*.swp
+
+# Ignore logs
+*.log
