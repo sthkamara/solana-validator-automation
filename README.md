@@ -58,9 +58,8 @@ But this will not check if the dependencies are installed
 5. **Exit**: Exit the script.
 
 ## **Project Structure**
-
+````
 solana-validator-automation/
-
 ├── .env                     # Environment variables
 ├── checks.sh                # Dependency checks
 ├── install.sh               # Installation script
@@ -79,7 +78,7 @@ solana-validator-automation/
 │   ├── genesis.bin
 │   └── ...
 └── README.md                # Project documentation
-
+````
 ## **Contributing**
 
 Contributions are welcome! If you find a bug or have a feature request, please open an issue or submit a pull request. This is an Alpha Version btw
