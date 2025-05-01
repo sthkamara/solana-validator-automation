@@ -1,4 +1,4 @@
-# Solana Validator Automation Script**
+# Solana Validator Automation Script
 
 This repository contains a set of scripts to automate the configuration and management of a Solana validator. It simplifies tasks such as addingaccounts, importing programs, changing clusters, and starting a test validator.
 
