@@ -47,6 +47,8 @@ Alternatively, you can run the script directly from the project directory:
 
 ``./start_validator.sh``
 
+But this will not check if the dependencies are installed
+
 ### Menu Options
 
 1. **Add account from mainnet**: Add a Solana account from the mainnet.
