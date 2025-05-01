@@ -23,7 +23,7 @@ Before using this project, ensure you have the following:
 1. Clone the repository:
 
 ````bash
-git clone [<https://github.com/your-username/solana-validator-automation.git>](https://github.com/AegonSC/solana-validator-automation.git)
+git clone https://github.com/AegonSC/solana-validator-automation.git
 
 cd solana-validator-automation
 ````
