@@ -41,11 +41,11 @@ This will:
 
 After installation, you can run the script from anywhere using the global command:
 
-aegon-solana
+````aegon-solana````
 
 Alternatively, you can run the script directly from the project directory:
 
-``./start_validator.sh``
+````./start_validator.sh````
 
 But this will not check if the dependencies are installed
 
